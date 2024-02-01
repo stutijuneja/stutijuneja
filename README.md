@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width"100" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stutijuneja&label=Profile%20views&color=0e75b6&style=flat" alt="stutijuneja" /> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
