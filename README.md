@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stutijuneja/stutijuneja](https://github.com/stutijuneja/stutijuneja)
 
-- 💬 Ask me about **React, JavaScript, SQL**
+- 💬 Ask me about **DSA, React, JavaScript, SQL**
 
 - 📫 How to reach me **stutijuneja2@gmail.com**
 
